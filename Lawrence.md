@@ -25,7 +25,7 @@ Estou me pós-graduando em Engenharia de Software e no momento aprendendo tudo s
 <a href="https://www.instagram.com/lawrenceln_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/wZqTYYC9YM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/lawrence-f-p-36b457216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ 
 </div>
 
 
